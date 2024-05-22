@@ -75,13 +75,4 @@ helps to register an users for on events conducted in college fests with simple 
 
 ### Google pay or phonepay number 8372069468
 
-
-
-## Screenshots
-![Image of adduser](https://github.com/PuneethReddyHC/event-management/blob/master/screenshots/home.png)
-![Image of adduser](https://github.com/PuneethReddyHC/event-management/blob/master/screenshots/events.png)
-![Image of adduser](https://github.com/PuneethReddyHC/event-management/blob/master/screenshots/about.png)
-![Image of adduser](https://github.com/PuneethReddyHC/event-management/blob/master/screenshots/events1.png)
-![Image of adduser](https://github.com/PuneethReddyHC/event-management/blob/master/screenshots/login.png)
-
 ##  If you like my project hit a star button
